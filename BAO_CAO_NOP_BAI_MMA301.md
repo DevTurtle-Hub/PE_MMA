@@ -10,7 +10,7 @@
 | :--- | :--- |
 | **Student Code:** | **QE200012** *(Điền MSSV của bạn)* |
 | **Full Name:** | **Nguyen Van A** *(Điền Họ tên đầy đủ của bạn)* |
-| **GitHub Repository URL:** | `https://github.com/username/MMA301_BookShelf` |
+| **GitHub Repository URL:** | `https://github.com/DevTurtle-Hub/PE_MMA` |
 | **Expo Project Link:** | `https://expo.dev/accounts/username/projects/bookshelf/builds/xxxxxxxx` |
 | **Firebase Project ID:** | `pemma301` |
 | **Test account email:** | `grader.test@example.com` *(Tài khoản test cho giám khảo)* |
